@@ -1,1 +1,2 @@
 # commit-squash-attempt
+PROVE PER EFFETTUARE LO SQUASH DEI COMMITS
